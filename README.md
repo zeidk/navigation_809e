@@ -1,5 +1,7 @@
 # navigation_809e
-Repository for class on navigation and mapping
-https://emanual.robotis.com/docs/en/platform/turtlebot3/slam_simulation/
+Repository for class on navigation and mapping.
 
-http://wiki.ros.org/costmap_2d
+Clone and build the package:
+- `cd catkin_ws/src`
+- `git clone https://github.com/zeidk/navigation_809e.git`
+- `catkin build`
